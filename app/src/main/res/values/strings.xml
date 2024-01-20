@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="note_header">Note Header</string>
+    <string name="simple_note_text">The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.</string>
+    <string name="enter_note_header">Enter Note Header</string>
+    <string name="enter_note_content">Enter Note Content</string>
+    <string name="save_or_update">Save or Update</string>
+    <string name="save_note">Save Note</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
